@@ -8,11 +8,13 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+amplify
 
 # macOS
 .DS_Store
 
 #amplify
+amplify
 amplify/\#current-cloud-backend
 amplify/.config/local-*
 amplify/mock-data
