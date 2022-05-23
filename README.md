@@ -21,7 +21,7 @@ Adding an AWS profile
 
 Navigate to the React Native application directory and run this command:
 
-amplify init
+`amplify init`
 Running the Amplify init command
 You’ll be prompted to specify the following:
 
@@ -36,7 +36,6 @@ Build command (press enter to choose the default command)
 Start command (press enter to choose the default command)
 Whether you want to use an AWS Profile (input Yes and press enter)
 If yes, which profile you want to use
-Upon completion of this form:
 
 A folder called amplify is created in your applications root directory to store the backend configuration of your application, such as authentication
 A file called aws-exports.js is created in the source directory path we specified when initializing Amplify. This file contains the information for the services you create with Amplify
